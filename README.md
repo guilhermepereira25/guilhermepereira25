@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a Software Developer intert from Rio de Janeiro, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Guilherme and I'm a Software Developer Intern from Rio de Janeiro, Brazil</h2>
 
 ###
 
