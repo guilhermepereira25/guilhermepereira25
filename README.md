@@ -4,7 +4,7 @@
 
 🔭 I'm currently a member of the backend team at Ubook, where I primarily work with PHP and Yii Framework 🌱. In addition to my professional responsibilities, I'm also dedicating time to a personal project called [Personal Finance](https://github.com/guilhermepereira25/personal-finance) using Vue.js and Laravel.
 
-📚 I'm currently engaged in a learning journey that encompasses Clean Architecture, Clean Code, Laravel, and the Ruby programming language for personal enrichment and hobbyist purposes. Additionally, I have a strong interest in expanding my knowledge to include Ruby on Rails.
+📚 I'm currently engaged in a learning journey that encompasses Clean Architecture, Clean Code, Laravel and learn the Cloud Foundamentals.
 
 ## 💬 Contact Me
 
